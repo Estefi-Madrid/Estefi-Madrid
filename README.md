@@ -78,7 +78,7 @@
 |                                                                     My GitHub Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Estefi-Madrid&show_icons=true&theme=algolia&title_color=FFB6C1&icon_color=ffffff&text_color=FFB6C1) | 
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Estefi-Madrid&theme=algolia&stroke=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Estefi-Madrid&theme=algolia&stroke=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1&&sideLabels=FFB6C1&sideNums=FFB6C1) |
 
 |                                                                                                      My GitHub Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
