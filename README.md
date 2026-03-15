@@ -1,3 +1,9 @@
+<p align="center">
+    <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+<p/>
+
+<h1 align="center"> ¡Hola! Soy Estefi </h1>
+
 Soy Estefi Madrid, estudiante de Ingeniería Informática especializándose en Sistemas de Información 💻.
 
 - Actualmente estoy aprendiendo HTML5 y CSS3.
