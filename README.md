@@ -20,14 +20,14 @@
 ### 👨‍💻 Lenguajes de Programación / Lenguajes de Marcado
 
 <p>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="#"><img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white"></a>
-    <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"></a>
-    <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D.svg?logo=ruby&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D.svg?logo=ruby&logoColor=white&style=for-the-badge"></a>
 
 <hr>
 
