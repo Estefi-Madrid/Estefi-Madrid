@@ -1,17 +1,18 @@
-<p align="center">
-<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
- <p/>
-<h1 align="center"> Hi! I'm Estefi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+Soy Estefi Madrid, estudiante de Ingeniería Informática especializándose en Sistemas de Información 💻.
 
-I'm Estefi Madrid, a Computer Engineering student specializing in Information Systems 💻.
-
-- :seedling: I’m currently learning about CSS.
-- 🤔 I’m looking for an internship.
-- 😄 Pronouns: She/Her.
+- Actualmente estoy aprendiendo HTML5 y CSS3.
+- 🤔 Estoy en busca de prácticas de empresa.
 
 <hr>
 
-### 👨‍💻 Programming Languages
+### 🌍 Idiomas
+
+- Español: Nativo
+- Inglés: B1 de Cambridge
+- Italiano: En curso.
+<hr>
+
+### 👨‍💻 Lenguajes de Programación / Lenguajes de Marcado
 
 <p>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"></a>
@@ -25,17 +26,18 @@ I'm Estefi Madrid, a Computer Engineering student specializing in Information Sy
 
 <hr>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Bases de Datos
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="pgAdmin4" src="https://img.shields.io/badge/pgAdmin4-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 </p>
 
 <hr>
 
-### 💻 Software and Tools
+### 💻 Software y Herramientas
 
 <p>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
@@ -48,7 +50,7 @@ I'm Estefi Madrid, a Computer Engineering student specializing in Information Sy
 
 <hr>
 
-### 👨🏽‍💻 Workspace
+### 👨🏽‍💻 Espacio de Trabajo
 <p>
     <a href="#"><img alt="HP Victus" src="https://img.shields.io/badge/HP-Victus-0096D6?style=for-the-badge&logo=hp&logoColor=white"></a>    
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
@@ -56,12 +58,13 @@ I'm Estefi Madrid, a Computer Engineering student specializing in Information Sy
 
 <hr>
 
-### 🤝🏻 Connect with Me
+### 🤝🏻 Contacta conmigo
 
 <p align="center">
-    <a href="https://www.instagram.com/estefi_mdii/">
-    <img src="https://img.shields.io/badge/-estefi_mdii-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-</a></p>
+    <a href="https://www.instagram.com/estefi_mdii/"><img src="https://img.shields.io/badge/-estefi_mdii-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+    <a href="mailto:estefi@example.com"><img src="https://img.shields.io/badge/-estefania.mo2005@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+    </a>
+</p>
 
 
 ## GitHub Stats
@@ -79,4 +82,4 @@ I'm Estefi Madrid, a Computer Engineering student specializing in Information Sy
 
 <hr>
 
-Last Edited On: 15/03/2026
+Última Modificación: 15/03/2026
