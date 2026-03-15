@@ -75,16 +75,14 @@
 
 ## GitHub Stats
 
-
 |                                                                     My GitHub Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Estefi-Madrid&show_icons=true&theme=algolia)              | 
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Estefi-Madrid&theme=algolia)                    | 
-    
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Estefi-Madrid&show_icons=true&theme=algolia&title_color=ffffff&icon_color=ffffff&text_color=FFB6C1) | 
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Estefi-Madrid&theme=algolia&stroke=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1) |
 
 |                                                                                                      My GitHub Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=Estefi-Madrid&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estefi-Madrid&langs_count=8&theme=algolia&layout=compact) |
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=Estefi-Madrid&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia&title_color=ffffff&icon_color=ffffff&text_color=FFB6C1) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estefi-Madrid&langs_count=8&theme=algolia&layout=compact&title_color=ffffff&text_color=FFB6C1) |
 
 <hr>
 
