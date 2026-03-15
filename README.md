@@ -66,6 +66,7 @@ Soy Estefi Madrid, estudiante de Ingeniería Informática especializándose en S
     </a>
 </p>
 
+<hr>
 
 ## GitHub Stats
 
