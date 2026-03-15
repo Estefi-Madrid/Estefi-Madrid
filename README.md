@@ -69,7 +69,6 @@ I'm Estefi Madrid, a Computer Engineering student specializing in Information Sy
 
 |                                                                     My GitHub Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Estefi-Madrid&theme=react-dark&hide_border=true&area=true) |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Estefi-Madrid&show_icons=true&theme=algolia)              | 
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Estefi-Madrid&theme=algolia)                    | 
     
