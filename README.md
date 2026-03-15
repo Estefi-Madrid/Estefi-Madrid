@@ -67,17 +67,16 @@ I'm Estefi Madrid, a Computer Engineering student specializing in Information Sy
 ## GitHub Stats
 
 
-|                                                                     Vishal's Stats                                                                     |
+|                                                                     My GitHub Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Estefi-Madrid&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=Estefi-Madrid&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Estefi-Madrid&theme=algolia)                    | 
+| ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Estefi-Madrid&theme=react-dark&hide_border=true&area=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Estefi-Madrid&show_icons=true&theme=algolia)              | 
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Estefi-Madrid&theme=algolia)                    | 
     
 
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|                                                                                                      My GitHub Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Estefi-Madrid&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estefi-Madrid&langs_count=8&theme=algolia&layout=compact) |
-
 
 <hr>
 
