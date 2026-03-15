@@ -5,8 +5,6 @@
 
 I'm Estefi Madrid, a Computer Engineering student specializing in Information Systems 💻.
 
-<!-- TODO: Add last video link -->
-
 - :seedling: I’m currently learning about CSS.
 - 🤔 I’m looking for an internship.
 - 😄 Pronouns: She/Her.
@@ -16,14 +14,14 @@ I'm Estefi Madrid, a Computer Engineering student specializing in Information Sy
 ### 👨‍💻 Programming Languages
 
 <p>
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white">&nbsp;
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">&nbsp;
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">&nbsp;
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">&nbsp;
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;
-    <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white">&nbsp;
-    <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">&nbsp;
-    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D.svg?logo=ruby&logoColor=white">&nbsp;
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white"></a>
+    <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white"></a>
+    <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D.svg?logo=ruby&logoColor=white"></a>
 
 <hr>
 
@@ -33,7 +31,6 @@ I'm Estefi Madrid, a Computer Engineering student specializing in Information Sy
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-
 </p>
 
 <hr>
@@ -45,23 +42,26 @@ I'm Estefi Madrid, a Computer Engineering student specializing in Information Sy
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></a>
+    <a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-0096D6.svg?style=for-the-badge&logo=ApacheNetBeans&logoColor=white"></a>
+    <a href="#"><img alt="CodeBlocks" src="https://img.shields.io/badge/CodeBlocks-1A1A1A.svg?style=for-the-badge&logo=codeblocks&logoColor=white"></a>
 </p>
 
 <hr>
 
 ### 👨🏽‍💻 Workspace
 <p>
-    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="#"><img alt="HP Victus" src="https://img.shields.io/badge/HP-Victus-0096D6?style=for-the-badge&logo=hp&logoColor=white"></a>    
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
 <hr>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 Connect with Me
 
 <p align="center">
-    <a href="https://www.instagram.com/estefi_mdii/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+    <a href="https://www.instagram.com/estefi_mdii/">
+    <img src="https://img.shields.io/badge/-estefi_mdii-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+</a></p>
 
 
 ## GitHub Stats
@@ -76,7 +76,7 @@ I'm Estefi Madrid, a Computer Engineering student specializing in Information Sy
 
 |                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-Estefi-Madrid&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estefi-Madrid&langs_count=8&theme=algolia&layout=compact) |
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=Estefi-Madrid&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estefi-Madrid&langs_count=8&theme=algolia&layout=compact) |
 
 
 <hr>
