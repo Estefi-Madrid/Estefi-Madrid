@@ -1,7 +1,9 @@
 <h1 align="center"><b>¡Hola! Soy Estefi</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Soy Estefi Madrid, estudiante de Ingeniería Informática especializándose en Sistemas de Información 💻.
+### 🎓 Sobre mí
 
+- Estudiante de Ingeniería Informática especializándose en Sistemas de Información 💻.
+- Estudio en la Escuela Ténica Superior de Ingeniería Informática y Telecomunicaciones, Universidad de Granada.
 - Actualmente estoy aprendiendo HTML5 y CSS3.
 - 🤔 Estoy en busca de prácticas de empresa.
 
@@ -12,6 +14,7 @@ Soy Estefi Madrid, estudiante de Ingeniería Informática especializándose en S
 - Español: Nativo
 - Inglés: B1 de Cambridge
 - Italiano: En curso.
+  
 <hr>
 
 ### 👨‍💻 Lenguajes de Programación / Lenguajes de Marcado
