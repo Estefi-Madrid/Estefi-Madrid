@@ -1,8 +1,4 @@
-<p align="center">
-    <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
-<p/>
-
-<h1 align="center"> ¡Hola! Soy Estefi </h1>
+<h1 align="center"><br>¡Hola! Soy Estefi</br></h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Soy Estefi Madrid, estudiante de Ingeniería Informática especializándose en Sistemas de Información 💻.
 
