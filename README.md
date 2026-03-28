@@ -12,7 +12,7 @@
 ### 🌍 Idiomas
 
 - Español: Nativo
-- Inglés: B1 de Cambridge
+- Inglés: B1 Preliminary de Cambridge
 - Italiano: En curso.
   
 <hr>
