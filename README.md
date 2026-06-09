@@ -66,8 +66,10 @@
 ### 🤝🏻 Contacta conmigo
 
 <p align="center">
-    <a href="https://www.instagram.com/estefi_mdii/"><img src="https://img.shields.io/badge/-estefi_mdii-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-    <a href="mailto:estefi@example.com"><img src="https://img.shields.io/badge/-estefania.mo2005@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <a href="https://www.instagram.com/estefi_mdii/"><img src="https://img.shields.io/badge/-estefi_mdii-E4405F?style=flat&logo=Instagram&logoColor=white"/>     </a>
+    <a href="mailto:estefania.mo2005@gmail"><img src="https://img.shields.io/badge/-estefania.mo2005@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/estefanía-madrid-ortega-9470423bb/"><img src="https://img.shields.io/badge/-Estefanía%20Madrid%20Ortega-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
     </a>
 </p>
 
