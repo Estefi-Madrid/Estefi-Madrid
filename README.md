@@ -4,7 +4,7 @@
 
 - Estudiante de Ingeniería Informática especializándose en Sistemas de Información 💻.
 - Estudio en la Escuela Ténica Superior de Ingeniería Informática y Telecomunicaciones, Universidad de Granada.
-- Actualmente estoy aprendiendo HTML5 y CSS3.
+- Actualmente estoy aprendiendo HTML5, CSS3, PHP y JavaScript.
 - 🤔 Estoy en busca de prácticas de empresa.
 
 <hr>
