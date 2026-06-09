@@ -28,6 +28,8 @@
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-%23CC342D.svg?logo=ruby&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 
 <hr>
 
