@@ -68,7 +68,6 @@
 ### 👨🏽‍💻 Espacio de Trabajo
 <p>
     <a href="#"><img alt="HP Victus" src="https://img.shields.io/badge/HP-Victus-0096D6?style=for-the-badge&logo=hp&logoColor=white"></a>    
-    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
 <hr>
