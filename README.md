@@ -61,6 +61,8 @@
     <a href="#"><img alt="Podman" src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"></a>
 </p>
 
+<hr>
+
 ### 👨🏽‍💻 Espacio de Trabajo
 <p>
     <a href="#"><img alt="HP Victus" src="https://img.shields.io/badge/HP-Victus-0096D6?style=for-the-badge&logo=hp&logoColor=white"></a>    
@@ -79,7 +81,7 @@
       <img src="https://img.shields.io/badge/-estefania.mo2005@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/estefanía-madrid-ortega-9470423bb/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
     </a>
 </p>
 
@@ -98,4 +100,4 @@
 
 <hr>
 
-Última Modificación: 15/03/2026
+Última Modificación: 09/06/2026
