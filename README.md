@@ -61,6 +61,7 @@
 
 <p>
     <a href="#"><img alt="Podman" src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
 </p>
 
 <hr>
